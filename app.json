@@ -1,5 +1,5 @@
 {
-  "name": "ASITHA-MD",
+  "name": "SWATI-TEACH",
   "description": "Javascript WhatsApp bot made by Asitha",
   "logo": "https://telegra.ph/file/38a4ba6f7a51c15f5feaf.jpg",
   "keywords": ["bot"],
@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=sJAnzBQJ#2K9V5aTj_hYPuv0ccxvkLSe8qzxgESBWZpeIO0j78KU.",
       "required": true
     }
 },
